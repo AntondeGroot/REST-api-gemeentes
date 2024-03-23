@@ -11,3 +11,5 @@ For a test the assignment was to create a REST api that
 http://localhost:8080/v1/gemeenten?sort_by=inwoners&order_by=desc
 
 gemeente has properties: id, naam, provincie, inwoners
+
+**Key words:** REST api, Spring Boot, Spring Data JPA, H2 in-memory database
